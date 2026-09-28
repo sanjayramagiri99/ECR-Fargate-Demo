@@ -21,7 +21,7 @@ spec:
       containers:
         - name: python-sample
 
-          image: 951488807529.dkr.ecr.us-east-1.amazonaws.com/fargate/python-sample:1.0
+          image: 951488807529.dkr.ecr.us-east-1.amazonaws.com/fargate/python-sample:2.0
 
           ports:
             - containerPort: 8080
